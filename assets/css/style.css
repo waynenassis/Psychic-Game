@@ -1,0 +1,34 @@
+body {
+    background-image: url("/Users/waynenassis/Desktop/homework3/Psychic-Game/assets/images/wizard.jpeg");
+    background-position: center; /* Center the image */
+    background-size:cover;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  font: bold;
+  font-size: 40px;
+  
+  
+}
+#jumbotron {
+font: bold;
+color: white;
+
+}
+
+
+h1 {
+    color: white;
+    
+}
+p {
+    color: white;
+    
+
+}
+#userguess {
+    font: bold
+
+}
+#win {
+    color: white;
+    
+}
